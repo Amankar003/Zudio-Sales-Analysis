@@ -1,0 +1,151 @@
+StoreID,City,State,Manager,StaffCount,Area_sqft
+1,Hyderabad,Delhi,Manager_1,45,4522
+2,Pune,Maharashtra,Manager_2,25,7333
+3,Pune,Tamil Nadu,Manager_3,69,8978
+4,Mumbai,Telangana,Manager_4,96,8968
+5,Kolkata,Tamil Nadu,Manager_5,61,9728
+6,Mumbai,Tamil Nadu,Manager_6,31,7364
+7,Delhi,Tamil Nadu,Manager_7,87,3077
+8,Hyderabad,Delhi,Manager_8,86,9871
+9,Kolkata,West Bengal,Manager_9,95,3125
+10,Pune,West Bengal,Manager_10,80,7616
+11,Chennai,Telangana,Manager_11,47,6631
+12,Chennai,Telangana,Manager_12,74,8717
+13,Chennai,Tamil Nadu,Manager_13,60,3824
+14,Hyderabad,Telangana,Manager_14,95,8754
+15,Bangalore,Delhi,Manager_15,32,6903
+16,Mumbai,Maharashtra,Manager_16,24,6252
+17,Pune,Telangana,Manager_17,88,9175
+18,Pune,Tamil Nadu,Manager_18,40,8602
+19,Pune,Karnataka,Manager_19,37,3295
+20,Chennai,Tamil Nadu,Manager_20,76,3914
+21,Kolkata,Maharashtra,Manager_21,51,6512
+22,Mumbai,Telangana,Manager_22,34,8463
+23,Mumbai,West Bengal,Manager_23,42,3278
+24,Bangalore,Delhi,Manager_24,32,9818
+25,Chennai,West Bengal,Manager_25,62,3180
+26,Mumbai,West Bengal,Manager_26,25,7424
+27,Delhi,Delhi,Manager_27,46,5180
+28,Mumbai,Maharashtra,Manager_28,14,8231
+29,Chennai,West Bengal,Manager_29,20,4753
+30,Chennai,Maharashtra,Manager_30,21,4052
+31,Chennai,Delhi,Manager_31,30,8871
+32,Chennai,Telangana,Manager_32,27,3460
+33,Bangalore,West Bengal,Manager_33,23,3579
+34,Bangalore,West Bengal,Manager_34,42,7358
+35,Pune,Delhi,Manager_35,30,7254
+36,Kolkata,Delhi,Manager_36,35,7086
+37,Delhi,Telangana,Manager_37,98,8109
+38,Chennai,Delhi,Manager_38,34,4559
+39,Mumbai,Karnataka,Manager_39,44,6677
+40,Pune,Karnataka,Manager_40,72,8980
+41,Chennai,Tamil Nadu,Manager_41,29,4638
+42,Bangalore,Tamil Nadu,Manager_42,72,8554
+43,Bangalore,Delhi,Manager_43,75,5682
+44,Mumbai,Telangana,Manager_44,21,2565
+45,Mumbai,Karnataka,Manager_45,41,3224
+46,Kolkata,West Bengal,Manager_46,57,8525
+47,Kolkata,Telangana,Manager_47,68,8934
+48,Delhi,Delhi,Manager_48,29,5257
+49,Kolkata,Karnataka,Manager_49,46,5728
+50,Kolkata,Telangana,Manager_50,49,7748
+51,Chennai,Tamil Nadu,Manager_51,70,3622
+52,Hyderabad,West Bengal,Manager_52,65,3325
+53,Mumbai,Delhi,Manager_53,23,8758
+54,Kolkata,Maharashtra,Manager_54,45,9470
+55,Chennai,Karnataka,Manager_55,85,3500
+56,Hyderabad,West Bengal,Manager_56,99,8458
+57,Hyderabad,Telangana,Manager_57,43,5686
+58,Pune,Karnataka,Manager_58,15,5500
+59,Kolkata,Tamil Nadu,Manager_59,55,6461
+60,Bangalore,Karnataka,Manager_60,86,5133
+61,Kolkata,Delhi,Manager_61,31,6917
+62,Kolkata,West Bengal,Manager_62,92,4172
+63,Mumbai,Karnataka,Manager_63,32,9114
+64,Bangalore,Karnataka,Manager_64,73,7489
+65,Pune,West Bengal,Manager_65,53,6748
+66,Delhi,Telangana,Manager_66,20,9435
+67,Kolkata,Delhi,Manager_67,77,3537
+68,Kolkata,Karnataka,Manager_68,70,8185
+69,Mumbai,Tamil Nadu,Manager_69,85,7301
+70,Delhi,West Bengal,Manager_70,65,5082
+71,Hyderabad,Maharashtra,Manager_71,60,8383
+72,Bangalore,Tamil Nadu,Manager_72,72,6464
+73,Delhi,Tamil Nadu,Manager_73,39,5661
+74,Pune,Telangana,Manager_74,19,8549
+75,Kolkata,Delhi,Manager_75,97,2212
+76,Hyderabad,Maharashtra,Manager_76,32,4156
+77,Chennai,Telangana,Manager_77,10,2176
+78,Chennai,Karnataka,Manager_78,57,4084
+79,Mumbai,Delhi,Manager_79,13,7923
+80,Kolkata,Telangana,Manager_80,37,5032
+81,Mumbai,Telangana,Manager_81,53,7808
+82,Bangalore,Tamil Nadu,Manager_82,76,6665
+83,Mumbai,Telangana,Manager_83,11,9426
+84,Delhi,Telangana,Manager_84,67,2961
+85,Delhi,Maharashtra,Manager_85,15,2986
+86,Chennai,Delhi,Manager_86,51,6256
+87,Bangalore,Karnataka,Manager_87,26,6094
+88,Chennai,Delhi,Manager_88,46,4961
+89,Bangalore,Tamil Nadu,Manager_89,53,3967
+90,Bangalore,Maharashtra,Manager_90,32,6170
+91,Delhi,Delhi,Manager_91,49,3222
+92,Kolkata,Maharashtra,Manager_92,94,8180
+93,Delhi,Maharashtra,Manager_93,53,7809
+94,Pune,Maharashtra,Manager_94,40,8691
+95,Mumbai,Maharashtra,Manager_95,85,9962
+96,Bangalore,Telangana,Manager_96,22,5989
+97,Hyderabad,Delhi,Manager_97,99,9454
+98,Delhi,West Bengal,Manager_98,29,7543
+99,Chennai,Maharashtra,Manager_99,56,4485
+100,Hyderabad,Maharashtra,Manager_100,19,7951
+101,Kolkata,Delhi,Manager_101,74,6805
+102,Delhi,Telangana,Manager_102,61,9925
+103,Kolkata,Karnataka,Manager_103,72,3396
+104,Kolkata,Maharashtra,Manager_104,38,3844
+105,Delhi,Telangana,Manager_105,63,5893
+106,Delhi,Tamil Nadu,Manager_106,95,9093
+107,Kolkata,Telangana,Manager_107,59,8368
+108,Pune,West Bengal,Manager_108,74,8086
+109,Pune,Maharashtra,Manager_109,53,5973
+110,Bangalore,Telangana,Manager_110,17,4879
+111,Delhi,West Bengal,Manager_111,18,6789
+112,Chennai,Telangana,Manager_112,32,7696
+113,Pune,Tamil Nadu,Manager_113,93,7734
+114,Kolkata,Tamil Nadu,Manager_114,43,8573
+115,Mumbai,West Bengal,Manager_115,25,4021
+116,Hyderabad,Tamil Nadu,Manager_116,95,4217
+117,Mumbai,West Bengal,Manager_117,71,9537
+118,Chennai,Tamil Nadu,Manager_118,96,6095
+119,Delhi,West Bengal,Manager_119,74,8767
+120,Chennai,Telangana,Manager_120,87,9915
+121,Delhi,Karnataka,Manager_121,61,6188
+122,Delhi,Delhi,Manager_122,32,5658
+123,Delhi,West Bengal,Manager_123,47,9643
+124,Pune,Tamil Nadu,Manager_124,49,6919
+125,Mumbai,Maharashtra,Manager_125,17,6110
+126,Chennai,Delhi,Manager_126,41,4333
+127,Bangalore,Karnataka,Manager_127,49,5094
+128,Chennai,Delhi,Manager_128,75,6875
+129,Pune,Delhi,Manager_129,57,4550
+130,Pune,Karnataka,Manager_130,22,2603
+131,Kolkata,Maharashtra,Manager_131,36,2862
+132,Kolkata,West Bengal,Manager_132,55,5741
+133,Chennai,Telangana,Manager_133,80,2122
+134,Kolkata,Maharashtra,Manager_134,12,8758
+135,Hyderabad,Tamil Nadu,Manager_135,94,3295
+136,Delhi,Maharashtra,Manager_136,70,3181
+137,Pune,West Bengal,Manager_137,81,4627
+138,Mumbai,Maharashtra,Manager_138,74,9456
+139,Mumbai,Tamil Nadu,Manager_139,26,6536
+140,Chennai,Maharashtra,Manager_140,35,2864
+141,Mumbai,Tamil Nadu,Manager_141,38,7371
+142,Bangalore,Delhi,Manager_142,81,7787
+143,Delhi,Delhi,Manager_143,47,8612
+144,Kolkata,Karnataka,Manager_144,60,3742
+145,Kolkata,Tamil Nadu,Manager_145,52,7657
+146,Delhi,Karnataka,Manager_146,81,9804
+147,Pune,Karnataka,Manager_147,17,6621
+148,Kolkata,Telangana,Manager_148,34,7816
+149,Pune,West Bengal,Manager_149,64,7774
+150,Kolkata,Telangana,Manager_150,54,3729
